@@ -6,7 +6,7 @@
 
 ## GitHub Project
 **Implementation:** MATLAB  
-**Repository:** [GitHub Project Link](<Insert GitHub Repository URL Here>)  
+**Repository:** [GitHub Project Link](https://github.com/gmezan/anf-implementation/tree/master)  
 
 ## Description
 This project is a MATLAB implementation of the adaptive notch filter described in the referenced IEEE paper. The filter is designed to improve signal tracking capabilities and suppress narrowband interference efficiently.
